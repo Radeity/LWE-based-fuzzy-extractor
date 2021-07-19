@@ -15,9 +15,9 @@ A Python implementation of LWE-based Fuzzy Extractor
 # Reference
 <div id="refer-anchor-1"></div>
 
-  [1] Daniel Apon, Chongwon Cho, Karim Eldefrawy, and Jonathan Katz. Efficient, reusable fuzzy extractors from LWE. In International Conference on Cyber Security Cryptography and Machine Learning, pages 1–18. Springer, 2017.
+  [1] [Daniel Apon, Chongwon Cho, Karim Eldefrawy, and Jonathan Katz. Efficient, reusable fuzzy extractors from LWE. In International Conference on Cyber Security Cryptography and Machine Learning, pages 1–18. Springer, 2017.](https://eprint.iacr.org/2017/755.pdf)
 
 
 <div id="refer-anchor-2"></div>
 
-  [2] Yunhua Wen and Shengli Liu. Reusable fuzzy extractor from LWE. In Australasian Conference on Information Security and Privacy, pages 13–27. Springer, 2018.
+  [2] [Yunhua Wen and Shengli Liu. Reusable fuzzy extractor from LWE. In Australasian Conference on Information Security and Privacy, pages 13–27. Springer, 2018.](https://link.springer.com/chapter/10.1007/978-3-319-93638-3_2)
